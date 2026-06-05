@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 🖋️ About Me:
 -> Currently working with MERN, Python and Rust<br>-> Open to ML and Cryptographic collaborations <br>-> An excellent Team Player and natural communicator<br>-> Learning Polo<br>
 
 
@@ -12,4 +12,4 @@
 ![](https://streak-stats.demolab.com/?user=Lazypilottt&theme=tokyonight&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lazypilottt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
