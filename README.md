@@ -1,15 +1,22 @@
-# 🖋️ About Me:
--> Currently working with MERN, Python and Rust<br>-> Open to ML and Cryptographic collaborations <br>-> An excellent Team Player and natural communicator<br>-> Learning Polo<br>
+### Hi, I'm Aditya Yadav
 
+Computer Science at **IIT Bhilai**. I build systems tooling in Rust, full-stack apps on the MERN stack, and ML research prototypes in Python. Open to collaborations in **machine learning** and **cryptography**.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adtitya-yadav-x) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Lazypilottt) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:adityay@iitbhilai.ac.in) 
+[LinkedIn](https://linkedin.com/in/adtitya-yadav-x) · [X](https://x.com/Lazypilottt) · [Email](mailto:adityay@iitbhilai.ac.in)
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white) ![Swift](https://img.shields.io/badge/swift-F54A2A?style=flat&logo=swift&logoColor=white) ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=flat&logo=latex&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat&logo=express&logoColor=%2361DAFB) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB) ![Inkscape](https://img.shields.io/badge/Inkscape-e0e0e0?style=flat&logo=inkscape&logoColor=080A13) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
+---
 
-![](https://streak-stats.demolab.com/?user=Lazypilottt&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=Lazypilottt&theme=tokyonight&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
+#### Selected work
 
+- **[s3f](https://github.com/Lazypilottt/s3f)**: a lean, fast S3 library and CLI in Rust, with Python and Node bindings.
+- **[DiffAM](https://github.com/Lazypilottt/DiffAM-Driven-Adversarial-Makeup-Transfer-and-Face-Recognition-Robustness)**: diffusion-based adversarial makeup transfer for testing how robust face recognition is.
+- **[Hard negative mining](https://github.com/Lazypilottt/intelligent-hard-negative-mining-cross-modal-retrieval)**: intelligent hard negative mining for cross-modal retrieval.
+- **[PQC fault injection](https://github.com/Lazypilottt/National_Quantum_Mission_PQC_Fault_Injection)**: fault injection analysis of post-quantum cryptography (National Quantum Mission).
+- **[GEMS](https://github.com/Lazypilottt/Gate-Entry-Mangement-System-GEMS)**: a gate entry management system built on the MERN stack.
 
+#### Stack
+
+**Languages**: Rust, Python, C++, TypeScript/JavaScript, Swift, Kotlin  
+**Web**: React, Node.js, Express, MongoDB  
+**ML**: TensorFlow, NumPy  
+**Tools**: Git, AWS, LaTeX, Figma
